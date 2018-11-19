@@ -10,7 +10,7 @@
  - Conférencier(s) :
    - Philippe Charrière ([LinkedIn](https://www.linkedin.com/in/phcharriere/), [Github](https://github.com/k33g), [Twitter](https://twitter.com/k33g_org))
  - Audience : ...
- - Auteur du billet : Nicolas Douchin
+ - Auteur du billet : Morgan Ridel
  - Mots-clés
  - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
    - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...

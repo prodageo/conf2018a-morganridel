@@ -11,7 +11,7 @@
    - Philippe Charrière ([LinkedIn](https://www.linkedin.com/in/phcharriere/), [Github](https://github.com/k33g), [Twitter](https://twitter.com/k33g_org))
  - Audience : ...
  - Auteur du billet : Morgan Ridel
- - Mots-clés
+ - Mots-clés : GitLab, Intégration continue, déploiement, tests, Cloud
  - URL de l'illustration : ![Conférence GitLab Runners](conf-gitlab.JPG)
  
 ## Support

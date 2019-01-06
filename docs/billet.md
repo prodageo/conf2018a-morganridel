@@ -12,9 +12,8 @@
  - Audience : ...
  - Auteur du billet : Morgan Ridel
  - Mots-clés
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
-   - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
-
+ - URL de l'illustration : ![Conférence GitLab Runners](conf-gitlab.jpg)
+ 
 ## Support
  - Lien vers le support (diapos) présenté en conférence : Indisponible
  - Nombre de diapos du support :

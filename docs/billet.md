@@ -12,7 +12,7 @@
  - Audience : ...
  - Auteur du billet : Morgan Ridel
  - Mots-clés
- - URL de l'illustration : ![Conférence GitLab Runners](conf-gitlab.jpg)
+ - URL de l'illustration : ![Conférence GitLab Runners](conf-gitlab.JPG)
  
 ## Support
  - Lien vers le support (diapos) présenté en conférence : Indisponible

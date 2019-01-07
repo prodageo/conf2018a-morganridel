@@ -9,7 +9,7 @@
  - Durée de la conférence : 50 minutes
  - Conférencier(s) :
    - Philippe Charrière ([LinkedIn](https://www.linkedin.com/in/phcharriere/), [Github](https://github.com/k33g), [Twitter](https://twitter.com/k33g_org))
- - Audience : ...
+ - Audience : ~130
  - Auteur du billet : Morgan Ridel
  - Mots-clés : GitLab, Intégration continue, déploiement, tests, Cloud
  - URL de l'illustration : ![Conférence GitLab Runners](conf-gitlab.JPG)
@@ -18,6 +18,12 @@
  - Lien vers le support (diapos) présenté en conférence : Indisponible
  - Nombre de diapos du support :
  - Plan du support :
+   * Présentation de Gitlab et plus particulièrement de Gitlab CI/CD
+   * Présentation du système de templates pour créer des dépôts facilement.
+   * Explication du fichier .gitlab-ci.yml.
+   * Lancement des tests sur différentes branches.
+   * Exemple de livraison grâce à l'outil de déploiement.
+
 
 ## Résumé
 Aujourd'hui GitLab tente de fournir les outils permettant de gérer le cycle entier de vie du DevOps, en particulier via GitLab CI. Le principe est simple, un fichier de configuration `.gitlab-ci.yml` est placé à la racine du projet. Ce fichier définit toutes les étapes (jobs) de notre chaine d'intégration: test, build, deploiement... ainsi que différentes options. En installant ce qu'on appelle un runner sur une machine, on peut ensuite faire executer automatiquement la chaine d'intégration à l'aide d'une pipeline à chaque push de commit sur le dépôt. L'état de cette pipeline est visible depuis l'interface Web de GitLab. Le chaine d'intégration est entièrement personalisable, on peut assigner des opérations uniquement à certaines branches, générer des fichier "artefact" à chaque exécution ou faire tourner n'importe quel script.

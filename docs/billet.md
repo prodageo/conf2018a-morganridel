@@ -16,7 +16,7 @@
  
 ## Support
  - Lien vers le support (diapos) présenté en conférence : Indisponible
- - Nombre de diapos du support :
+ - Nombre de diapos du support : N/A
  - Plan du support :
    * Présentation de Gitlab et plus particulièrement de Gitlab CI/CD
    * Présentation du système de templates pour créer des dépôts facilement.
